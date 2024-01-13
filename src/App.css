@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-action {
+  margin: 0 5px; /* Dodać marginesy dookoła przycisków */
+}
+
+.btn-edit {
+  background-color: #007bff; /* Niebieski kolor dla przycisku edycji */
+  color: white; /* Biały tekst na przycisku */
+}
+
+.btn-delete {
+  background-color: #dc3545; /* Czerwony kolor dla przycisku usuwania */
+  color: white; /* Biały tekst na przycisku */
+}
